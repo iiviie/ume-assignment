@@ -1,7 +1,0 @@
-Django
-djangorestframework
-psycopg2-binary
-python-dotenv
-google-generativeai
-gunicorn
-drf-yasg
